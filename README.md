@@ -55,3 +55,4 @@ As a blank, I want to be able to blank, so that blank.
 - Projects#index
 - Projects#show
 - Contact
+# rails_blog_course
